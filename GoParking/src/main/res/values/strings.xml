@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GoParking</string>
+    <string name="action_search">Search by location and dates</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="user_name">User name:</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="enter">Enter</string>
+    <string name="log_in">Log in</string>
+    <string name="welcome_to_goparking">Welcome to GoParking</string>
+    <string name="create_account">Create Account</string>
+    <string name="pick_location">Pick Location</string>
+    <string name="pick_start_time">Pick Start Time</string>
+    <string name="pick_end_time">Pick End Time</string>
+    <string name="search_nearby_parking_spots">Search Nearby Parking Spots</string>
+    <string name="add_new">Add New</string>
+    <string name="street_address">Street address:</string>
+    <string name="number_of_spots">Number of spots:</string>
+    <string name="price_per_hour">Price (per hour):</string>
+    <string name="available_starting">Available starting:</string>
+    <string name="available_until">Available until:</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="request">Request</string>
+    <string name="reject">Reject</string>
+    <string name="approve">Approve</string>
+
+</resources>

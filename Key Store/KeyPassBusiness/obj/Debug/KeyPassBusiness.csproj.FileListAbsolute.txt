@@ -1,0 +1,24 @@
+C:\Users\jiayao\Desktop\Solution1\KeyPassBusiness\bin\Debug\KeyPassBusiness.dll
+C:\Users\jiayao\Desktop\Solution1\KeyPassBusiness\bin\Debug\KeyPassBusiness.pdb
+C:\Users\jiayao\Desktop\Solution1\KeyPassBusiness\obj\Debug\KeyPassBusiness.dll
+C:\Users\jiayao\Desktop\Solution1\KeyPassBusiness\obj\Debug\KeyPassBusiness.pdb
+C:\Users\jiayao\Desktop\Solution2\Bin\KeyPassBusiness.dll
+C:\Users\jiayao\Desktop\Solution2\Bin\KeyPassBusiness.pdb
+C:\Users\jiayao\Desktop\Solution2\KeyPassBusiness\obj\Debug\KeyPassBusiness.csprojResolveAssemblyReference.cache
+C:\Users\jiayao\Desktop\Solution2\KeyPassBusiness\obj\Debug\KeyPassBusiness.dll
+C:\Users\jiayao\Desktop\Solution2\KeyPassBusiness\obj\Debug\KeyPassBusiness.pdb
+C:\Users\jiayao\Desktop\Solution3\Bin\KeyPassBusiness.dll
+C:\Users\jiayao\Desktop\Solution3\Bin\KeyPassBusiness.pdb
+C:\Users\jiayao\Desktop\Solution3\KeyPassBusiness\obj\Debug\KeyPassBusiness.csprojResolveAssemblyReference.cache
+C:\Users\jiayao\Desktop\Solution3\KeyPassBusiness\obj\Debug\KeyPassBusiness.dll
+C:\Users\jiayao\Desktop\Solution3\KeyPassBusiness\obj\Debug\KeyPassBusiness.pdb
+C:\Users\jiayao\Desktop\Solution4\Bin\KeyPassBusiness.dll
+C:\Users\jiayao\Desktop\Solution4\Bin\KeyPassBusiness.pdb
+C:\Users\jiayao\Desktop\Solution4\KeyPassBusiness\obj\Debug\KeyPassBusiness.csprojResolveAssemblyReference.cache
+C:\Users\jiayao\Desktop\Solution4\KeyPassBusiness\obj\Debug\KeyPassBusiness.dll
+C:\Users\jiayao\Desktop\Solution4\KeyPassBusiness\obj\Debug\KeyPassBusiness.pdb
+D:\BU\Computer Science\CS 503\Assignments\4\Solution4\Bin\KeyPassBusiness.dll
+D:\BU\Computer Science\CS 503\Assignments\4\Solution4\Bin\KeyPassBusiness.pdb
+D:\BU\Computer Science\CS 503\Assignments\4\Solution4\KeyPassBusiness\obj\Debug\KeyPassBusiness.csprojResolveAssemblyReference.cache
+D:\BU\Computer Science\CS 503\Assignments\4\Solution4\KeyPassBusiness\obj\Debug\KeyPassBusiness.dll
+D:\BU\Computer Science\CS 503\Assignments\4\Solution4\KeyPassBusiness\obj\Debug\KeyPassBusiness.pdb
